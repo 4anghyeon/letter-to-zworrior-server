@@ -1,0 +1,47 @@
+{
+  "letters": [
+    {
+      "id": "3c7e7c89-1c86-4159-ba90-8874b60d81e1",
+      "to": "피콜로",
+      "from": "bbbbbb",
+      "content": "zdzd",
+      "userId": "bbbbbb",
+      "avatar": null,
+      "date": "2023-12-01T07:07:54.431Z"
+    },
+    {
+      "id": "b8b1486d-9e6b-44d1-ae4c-19a4d21ab318",
+      "to": "손오반",
+      "from": "bbbbbb",
+      "content": "zzzzz",
+      "userId": "bbbbbb",
+      "avatar": null,
+      "date": "2023-12-01T07:19:40.045Z"
+    },
+    {
+      "id": "8632590e-1c07-4907-8ca0-31568335503b",
+      "to": "손오공",
+      "from": "bbbbbb",
+      "content": "asdasasd",
+      "userId": "bbbbbb",
+      "avatar": null,
+      "date": "2023-12-01T07:23:30.267Z"
+    },
+    {
+      "id": "ca9f090d-0098-434b-bdee-68d28eb00b35",
+      "to": "손오공",
+      "from": "bbbbbb",
+      "content": "asdadasadas",
+      "userId": "bbbbbb",
+      "avatar": null,
+      "date": "2023-12-01T07:23:46.774Z"
+    }
+  ],
+  "user": [
+    {
+      "nickname": "a",
+      "avatar": "https://react-jwt-avatar.s3.ap-northeast-2.amazonaws.com/23-12-01/3229719d-dc28-477d-b26b-efa41161c210.jpg",
+      "id": "aaaaaa"
+    }
+  ]
+}
